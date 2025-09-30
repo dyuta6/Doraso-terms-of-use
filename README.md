@@ -1,14 +1,14 @@
 # Terms of Use
 
-**Important:** By downloading, installing, or using the **SpeakPic AI** mobile application, you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use our application.
+**Important:** By downloading, installing, or using the **Sora 2 via AI Video Editor** mobile application, you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use our application.
 
 ## 1. Acceptance of Terms
 
-These Terms of Use ("Terms") govern your use of the **SpeakPic AI** mobile application ("App") provided by dyuta9 ("Company," "we," "us," or "our"). By accessing or using our App, you agree to comply with and be bound by these Terms.
+These Terms of Use ("Terms") govern your use of the **Sora 2 via AI Video Editor** mobile application ("App") provided by dyuta9 ("Company," "we," "us," or "our"). By accessing or using our App, you agree to comply with and be bound by these Terms.
 
 ## 2. Description of Service
 
-**SpeakPic AI** is an artificial intelligence-powered mobile application that allows users to:
+**Sora 2 via AI Video Editor** is an artificial intelligence-powered mobile application that allows users to:
 
 - Upload photos and transform them into talking videos using AI voice synthesis
 - Generate speech from text using various voice options
