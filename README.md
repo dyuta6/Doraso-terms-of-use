@@ -1,14 +1,14 @@
 # Terms of Use
 
-**Important:** By downloading, installing, or using the **Doraso** mobile application, you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use our application.
+**Important:** By downloading, installing, or using the **Doraso-İD UGC** mobile application, you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use our application.
 
 ## 1. Acceptance of Terms
 
-These Terms of Use ("Terms") govern your use of the **Doraso** mobile application ("App") provided by dyuta9 ("Company," "we," "us," or "our"). By accessing or using our App, you agree to comply with and be bound by these Terms.
+These Terms of Use ("Terms") govern your use of the **Doraso-İD UGC** mobile application ("App") provided by dyuta9 ("Company," "we," "us," or "our"). By accessing or using our App, you agree to comply with and be bound by these Terms.
 
 ## 2. Description of Service
 
-**Doraso** is an artificial intelligence-powered mobile application that allows users to:
+**Doraso-İD UGC** is an artificial intelligence-powered mobile application that allows users to:
 
 - Upload photos and transform them into talking videos using AI voice synthesis
 - Generate speech from text using various voice options
